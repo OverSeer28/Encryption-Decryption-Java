@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Encryption-Decryption (Java)/*
+!/Encryption-Decryption (Java)/task/
+/Encryption-Decryption (Java)/task/*
+!/Encryption-Decryption (Java)/task/src
+!/Encryption-Decryption (Java)/task/output.txt
